@@ -172,7 +172,7 @@ incomeBrackets = ['num of households','households income < 10k','households inco
 
 #to get avg household size, divide population by # households.
 
-apiKey = 'f028dca1e4628fb5fa578ce1b3b4128975c2832c'
+apiKey = 'YOUR API KEY HERE'
 
 
 
